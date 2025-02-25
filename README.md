@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prakruthi S</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">Pursuing B.E in computer science and engineering</h3>
 
 - 🌱 I’m currently learning **artificial intelligence and machine learning**
 
 - 📫 How to reach me **prakruthis935393@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/prakruthi-s-0543322b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</h3>
 <p align="left">
 </p>
 
